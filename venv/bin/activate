@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/mgusils/Documents/Harvard-courses/cscie14a/lab1/venv"
+VIRTUAL_ENV="/Users/mgusils/Desktop/lab2/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

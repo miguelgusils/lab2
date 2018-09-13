@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/mgusils/Documents/Harvard-courses/cscie14a/lab1/venv"
+set -gx VIRTUAL_ENV "/Users/mgusils/Desktop/lab2/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

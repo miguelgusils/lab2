@@ -1,4 +1,4 @@
-#!/Users/mgusils/Documents/Harvard-courses/cscie14a/lab1/venv/bin/python
+#!/Users/mgusils/Desktop/lab2/venv/bin/python
 
 import sys
 import getopt
